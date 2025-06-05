@@ -1,5 +1,5 @@
-# Java
+# EXERCISE
 
 Exercícios sobre JS, PHP, CSS, HTML realizados durante a aula programação web -PUCPR 2 período
 
-JS,PHP,CSS,HTML를 이용한 여러가지 작업과제. PUCPR - 1학년 2학기
+웹 프로그래밍 수업 중 진행된 다양한 실습 과제(HTML, CSS, JavaScript, PHP 기반)들을 정리한 저장소
